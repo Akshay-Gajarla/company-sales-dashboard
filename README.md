@@ -1,5 +1,3 @@
-# company-sales-dashboard
-
 1.Project title :
   "SAMPLE SUPERSTORE PROFIT REPORT"
 
@@ -30,3 +28,6 @@
     A detailed matrix shows profit distribution across sub-categories and regions (Central, East, South, West).
     🔄 Interactive & User-Friendly Design
     All visuals are interactive, enabling users to explore insights through slicers and filters seamlessly.
+
+5.output :
+  https://github.com/Akshay-Gajarla/company-sales-dashboard/blob/main/snapshot%20of%20dashboard.png
